@@ -26,12 +26,12 @@ La probabilidad marginal es la probabilidad de un dado independiente de la proba
 
 Por tanto la probabilidad conjunta es:
 
-$P(A,B) = P(A \& B) = P(A \cap B)$
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{120}&space;\bg_white&space;\large&space;P(A,B)&space;=&space;P(A&space;\&&space;B)&space;=&space;P(A&space;\cap&space;B)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;P(A,B)&space;=&space;P(A&space;\&&space;B)&space;=&space;P(A&space;\cap&space;B)" title="\large P(A,B) = P(A \& B) = P(A \cap B)" /></a>
 
 La probabilidad condicional es:
 
-$P(A \ dado \ B) = P(A|B)$
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{120}&space;\bg_white&space;\large&space;P(A&space;\&space;dado&space;\&space;B)&space;=&space;P(A|B)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;P(A&space;\&space;dado&space;\&space;B)&space;=&space;P(A|B)" title="\large P(A \ dado \ B) = P(A|B)" /></a>
 
 La regla del producto es:
 
-$P(A \cap B) = P(A|B)P(B)$
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\dpi{120}&space;\bg_white&space;\large&space;P(A&space;\cap&space;B)&space;=&space;P(A|B)P(B)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\dpi{120}&space;\bg_white&space;\large&space;P(A&space;\cap&space;B)&space;=&space;P(A|B)P(B)" title="\large P(A \cap B) = P(A|B)P(B)" /></a>
