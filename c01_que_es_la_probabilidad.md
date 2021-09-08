@@ -15,7 +15,7 @@ Por tanto la probabilidad es un lenguaje que nos da herramientas para cuantifica
 
 - **Suceso**: El resultado de lanzar un dado es par.
 
-$$P = \frac{No.SucesosExitosos}{No.SucesosTotales}$$
+$P = \frac{No.SucesosExitosos}{No.SucesosTotales}$
 
 ![](https://i.imgur.com/BaQ8LxI.png)
 
