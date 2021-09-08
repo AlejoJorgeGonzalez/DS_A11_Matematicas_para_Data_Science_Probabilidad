@@ -19,6 +19,8 @@ $P = \frac{No.SucesosExitosos}{No.SucesosTotales}$
 
 ![](https://i.imgur.com/BaQ8LxI.png)
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=0&space;\leq&space;P&space;\leq&space;1" target="_blank"><img src="https://latex.codecogs.com/gif.latex?0&space;\leq&space;P&space;\leq&space;1" title="0 \leq P \leq 1" /></a>
+
 $$ 0 \leq P \leq 1$$
 $$ certeza \to P =1$$
 $$ imposibilidad \to P=0 $$
